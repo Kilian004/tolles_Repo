@@ -80,7 +80,7 @@
        <input type="text" id="fname" name="fname"><br><br>
        <label for="lname">Last name:</label>
        <input type="text" id="lname" name="lname"><br><br>
-       <input type="submit" value="Submit">
+       <input type="knopf" value="Submit">
         </form>
       <hr>
       <h3>Test</h3>
